@@ -83,8 +83,6 @@ Add it in your root build.gradle at the end of repositories:
     }
 ```
 
-lastest release:https://github.com/hss01248/SafeMediaPlayer/releases
-
 # todo 
 
 VideoPlayerManager
